@@ -1,0 +1,9 @@
+[submodule "Cr3dOv3r"]
+	path = Cr3dOv3r
+	url = https://github.com/D4Vinci/Cr3dOv3r
+[submodule "trape"]
+	path = trape
+	url = https://github.com/boxug/trape
+[submodule "tweep"]
+	path = tweep
+	url = https://github.com/haccer/tweep
