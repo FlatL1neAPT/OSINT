@@ -7,3 +7,6 @@
 [submodule "tweep"]
 	path = tweep
 	url = https://github.com/haccer/tweep
+[submodule "WhatsSpy-Public"]
+	path = WhatsSpy-Public
+	url = https://gitlab.maikel.pro/maikeldus/WhatsSpy-Public
