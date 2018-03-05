@@ -1,5 +1,9 @@
 # OSINT
 
+<b>linkedin2username</b><br>
+https://github.com/initstring/linkedin2username<br>
+Генератор username из компаний на LinkedIn.<br>
+<br>
 <b>Cr3dOv3r</b><br>
 https://github.com/D4Vinci/Cr3dOv3r<br>
 Поиск скомпрометированых email адресов через API hacked-emails.<br>
