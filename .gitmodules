@@ -10,3 +10,6 @@
 [submodule "WhatsSpy-Public"]
 	path = WhatsSpy-Public
 	url = https://gitlab.maikel.pro/maikeldus/WhatsSpy-Public
+[submodule "linkedin2username"]
+	path = linkedin2username
+	url = https://github.com/initstring/linkedin2username
